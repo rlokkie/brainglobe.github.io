@@ -4,7 +4,7 @@ What kind of data does `brainmapper` support?
 
 ## Introduction
 
-`brianmapper` was written to analyse certain kinds of whole brain microscopy datasets (e.g. serial two-photon or lightsheet in cleared tissue).
+`brainmapper` was written to analyse certain kinds of whole brain microscopy datasets (e.g. serial two-photon or lightsheet in cleared tissue).
 Although we are working on supporting different kinds of data, currently, the data must fit these criteria:
 
 ### Image channels
